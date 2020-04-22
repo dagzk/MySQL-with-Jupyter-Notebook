@@ -1,2 +1,2 @@
 # MySQL-with-Jupyter-Notebook
-Creating a database in Jupyter Notebook using MySQL.
+Creating a fake company database in Jupyter Notebook using MySQL.
